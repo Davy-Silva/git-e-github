@@ -1,3 +1,3 @@
 # Git e GitHub
- Primeiro Repositório Do Curso De Git e GitHub Do Cursoemvideo.
+Repositório De Exercícios Do Curso De Git e GitHub Do Cursoemvideo.
  
